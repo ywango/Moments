@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/2bb70c3494255020c6d24b50ff01ee7799ddce8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_65ff3cfe1a2b61531a96a3256b841c238eecb60f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/558769d4d7e36f33a92946e92cf3b95b6785720f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_41ba2627404806cbadf2adbc2add7349495fa946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/eb4a7e98cf3ac4a35fa68bb263dd35d7263db1f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_4b65789fb71e6242670694e5cca1f51303c1291f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/85e65518aaa45a2533fefefb0c5130828f529571/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_2bd658fcc776e7094a1dc67010a17296e42aebf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/b8b4f7c95582017fa97fee852938ac112ffcb022/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_f4554f21b0eb9b623982ced27507d94919c8fa6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/d5df3b4a3fc4945df9a44ae48f233d608c477bca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_7e24d7aa92fd7afc039777c63ecb9f00edac986b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/e3f7ed16dc64b610e580772d6d24f50a92cd1722/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_4ace514ea525f682154c8adec1937dba53b6c8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/4b0f49901dc00095c1e327c422ae6d052a0824db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_b4422f1db5e03f934ac51be7d9911734b6d4070b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/f5cd513287c865d3f6c2b5fef062892f9b1a5a41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_ec7350b810e5b06a4981ba2940a1d13b8a439b48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yingw/.android/build-cache/a39468a0ce71f93fd5e008832d7f02b709af9f24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cbd7655cd93fbe30afd6bc400c771735879b743/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/4d577c8e4078905b98debb4b20752a5f7bf2d550/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_2f09537e5ba69b2b5ab51c229fab5149c0669686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/e1c15d2178fd8ae6bd12b88700dc17a9faa82028/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_3c6a4e91c53bb012bb03aee21267358bd0d0bf88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/4241c0a56a73cae2e51e70feaea045e48eca6005/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_15e5fddc26bfb20f340c3462c7fa5ae60a328ba5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yingw/.android/build-cache/9caccd2efada28b6d2b0ca6dc1db44b7a4ffcf06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae5bbc0355ecf06a9af436917daebff3aa456cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/ceb4786446dd30f76d165efb31dd122db756c346/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_6c9718c4420a756cfb6dc3bc5da3465bde9a4f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/64d16337c28cf1ba45eb8e3553c89bc4da66b35b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_7149426392b8971ed505564b05659320858ee066.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de8c0dad6ece609b329bdfb74ea9edd26e2e4f02">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0e322134034e60efc65ee4860d8397a4956a0cea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/45585a21de68762e1f355e363c885debc22aaf94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_627acbc9ac46956c956c0c6747be395dc0367a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/6f6f6f235bf65ff5367f89d014860ec719c900d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_5ab7d8cbbaee210580dfd71ca5103d51a58e552e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/b3eafbfd70340ece5d68d9c5acf4c3a593d6b7e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_6f2e5b439fb4216082a180c32bff2eba63fb36b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21cce6f27bd0e8f1a69b272f7448c9e27cf838df/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/ad44d8ebb0e54121a7a54272822fcebf6c38a74b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_93b4b385a7e61cd4410f2cd0e52d05fe85c4738d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yingw/.android/build-cache/d3d403394190cc4b93127dbfd3833ac0874846eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/yingw/Documents/Android/EventReporter/app/build/intermediates/pre-dexed/debug/classes_eb9e063954008530f262e28a0a5591cd13a67859.jar" />
+    </item>
+
+</items>
